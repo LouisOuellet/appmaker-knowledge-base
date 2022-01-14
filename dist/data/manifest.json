@@ -1,0 +1,13 @@
+{
+    "repository": {
+        "name": "appmaker-knowledge-base",
+        "branch": "dev",
+        "manifest": "\/dist\/data\/manifest.json",
+        "host": {
+            "git": "git@github.com:LouisOuellet\/appmaker-knowledge-base"
+        }
+    },
+    "name": "knowledge-base",
+    "build": 2,
+    "version": "22.01-dev"
+}
